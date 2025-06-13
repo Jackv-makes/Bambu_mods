@@ -6,7 +6,7 @@ The board has thes options:
 1x Terminal block (Used to provide 24V power to whatever device you want, in my case I use it for my Bento Box)
 
 # Shell
-I'm not a 3D modeler by any means, so I made a super basic shell for the board. You are more than welcome to design your own and share it if you want. 
+I'm not a 3D modeler by any means, so I made a super basic shell for the board. You are more than welcome to design your own and share it if you want. There is a hole for mounting it with a M2 screws onto the back of the printer, but you can also used command strips or something else as well.
 
 ## Please note that a shell needs to be used because you will short the board and likely damage your printer if you use it without one. ##
 
