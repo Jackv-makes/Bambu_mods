@@ -1,5 +1,5 @@
 
-![Untitled video (30)](https://github.com/user-attachments/assets/c6b2d5c7-58c9-4aa4-a0e4-2d8e9f8342ca)
+![9y9g2g](https://github.com/user-attachments/assets/0488a20f-4849-4c2e-b5f3-4de03799da4d)
 
 
 # Bambu Power
