@@ -1,3 +1,7 @@
+
+![Untitled video (30)](https://github.com/user-attachments/assets/c6b2d5c7-58c9-4aa4-a0e4-2d8e9f8342ca)
+
+
 # Bambu Power
 This is a board I designed to extend 24V power from the Bambu Labs X1C. 
 
