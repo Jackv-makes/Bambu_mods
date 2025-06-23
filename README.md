@@ -1,5 +1,9 @@
 
-![9y9g2g](https://github.com/user-attachments/assets/0488a20f-4849-4c2e-b5f3-4de03799da4d)
+
+
+https://github.com/user-attachments/assets/460e2561-fc3a-4ef0-82e2-189d3d20902e
+
+
 
 
 # Bambu Power
