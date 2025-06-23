@@ -39,4 +39,10 @@ A limited number of assembled boards will also be available through my Ko-fi pag
 
 ---
 
-# Bill of
+# Bill of Materials & Assembly
+
+To assemble the board, you will need:  
+- 2× Molex Micro-Fit connectors  
+- 1× Terminal block  
+- 1× Micro-Fit cable (for power input/output)  
+- 1× AMS Buffer cable (from Bambu Labs)
