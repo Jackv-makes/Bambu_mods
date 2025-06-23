@@ -2,11 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/26518e45-442e-4285-b266-771a2e34ee19" width="500">
 
-
-
-
-
-
 # Bambu Power
 This is a board I designed to extend 24V power from the Bambu Labs X1C. 
 
@@ -16,6 +11,7 @@ The board has thes options:
 
 # Shell
 I'm not a 3D modeler by any means, so I made a super basic shell for the board. You are more than welcome to design your own and share it if you want. There is a hole for mounting it with a M2 screws onto the back of the printer, but you can also used command strips or something else as well.
+<img src="https://github.com/user-attachments/assets/252d7b48-a040-4f57-af44-b2064bb75174" width="500">
 
 ## Please note that a shell needs to be used because you will short the board and likely damage your printer if you use it without one. ##
 
